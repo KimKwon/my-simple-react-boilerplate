@@ -1,0 +1,7 @@
+# webpack config
+paths.js
+webpack.*.js
+dist/
+
+# else
+node_modules/
